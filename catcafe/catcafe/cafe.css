@@ -1,0 +1,82 @@
+body {
+  margin: 0 10%;
+  font-family: sans-serif;
+  }
+h1 {
+  font-family: "Knewave", system-ui;
+  color: #293b52;
+  text-align: center;
+  font-weight: 400;
+  font-size: 6em;
+  font-style: normal;
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+h2 {
+  font-family: "Knewave", system-ui;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5em;
+  text-align: center;
+  border-bottom: 1px solid #f1dbe7;
+}
+h3 {
+  font-family: "Rethink Sans", serif;
+  color: #293b52;
+  font-size: 1.5em;
+  font-style: normal;
+  font-weight: 400;
+}
+ul li {
+ padding: .5em;
+ display: inline-block;
+ margin-right: 15px;
+}
+h4 {
+ font-family: "Rethink Sans", serif;
+ color: #293b52;
+ font size: 1em;
+ overflow: hidden;
+ margin-bottom: 10px;
+}
+h5 {
+ font-family: "Rethink Sans", serif;
+ color: #f5a4c0;
+ font-size: 1em;
+ text-align: center;
+ margin-right: 70px;
+ margin-bottom: 50px;
+}
+footer {
+  border-top: 1px solid #f1dbe7;
+  font-family: "Rethink Sans", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: .5em;
+  text-align: center; 
+  padding-top: 1em;
+}
+h6 img {
+ width: 40px;
+ height: 40px;
+ margin-left: 15em;
+ margin-right: 15em;
+ margin-bottom: 6em;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+ color: #f7b0c8;
+}
+a:visited {
+ color: #f79cbb;
+}
+a:hover {
+ color: white;
+ background-color: #293b52;
+}
+a:active {
+ color: white;
+ background-color: #465291;
+}
