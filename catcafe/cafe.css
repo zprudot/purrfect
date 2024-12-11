@@ -63,6 +63,9 @@ h6 img {
  margin-right: 15em;
  margin-bottom: 6em;
 }
+img {
+  align: center;
+}
 a {
   text-decoration: none;
 }
